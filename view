@@ -1,0 +1,24 @@
+<meta charset="utf-8">
+<html>
+	<head>
+		<title> new World - web </title>
+	</head>
+	<body>
+		<h3>웹 사용량 보고서</h3>
+			<table width = 30%>
+				<th>
+					<tr>
+					<td>성함</td><td>가격</td><td>횟수</td>
+					</tr>
+				</th>
+				<tb>
+				<tr>
+					<td>김미영</td><td>10000</td><td>2</td>
+				</tr>
+				<tr>
+					<td>신미구</td><td>2000</td><td>3</td>
+				</tr>
+				</tb>
+			</table>
+	</body>
+</html>
